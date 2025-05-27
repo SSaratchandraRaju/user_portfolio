@@ -1,7 +1,5 @@
 # Portfolio Website
 
-![Portfolio Screenshot](./images/portfolio-screenshot.png)
-
 A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a frontend developer.
 
 ## Features
@@ -77,7 +75,7 @@ portfolio/
 
 ## Live Demo
 
-Check out the live version: [https://github.com/SSaratchandraRaju/user_portfolio](https://github.com/SSaratchandraRaju/user_portfolio)
+Check out the live version: [https://ssaratchandraraju.github.io/user_portfolio/](https://ssaratchandraraju.github.io/user_portfolio/)
 
 ## License
 
